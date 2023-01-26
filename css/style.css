@@ -1,0 +1,25 @@
+table {
+    margin-top: 40px;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid purple;
+  }
+
+caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+td, th {
+    border: 1px solid grey;
+    text-align: center;
+}
+
+thead, th { 
+    background-color: #C0C0C0;
+}
+
+#label {
+    background-color: rgb(159, 133, 184);
+}
